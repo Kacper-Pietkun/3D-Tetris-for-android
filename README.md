@@ -13,9 +13,9 @@
 
 ## Visuals
 
-![sample1](Images/main_menu.png "Menu")
+![sample1](screenshots/sample1.png)
 
-![sample2](Images/gameplay.png "Gameplay")
+![sample2](screenshots/sample2.png)
 
 ## Description
 
